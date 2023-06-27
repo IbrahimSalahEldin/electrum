@@ -1,0 +1,45 @@
+*{
+    font-family: 'Cairo', sans-serif;
+}
+
+.Logo{
+
+    font-size: 43px;
+    font-weight: bolder;
+    color: #272767;
+}
+
+.links a {
+    text-decoration: none;
+    color: #212148;
+    margin-left: 10px;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+
+.cont {
+
+    background-color: #404074;
+    width: 150px;
+    font-size: 15px;
+    color: white;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cont:hover {
+border: #272767 solid 2px;
+color: #272767;
+}
+.MyNav {
+
+    background-color: white;
+    border-bottom: 1px solid 
+    #dbdbdb;
+}
+ 
+.MyButton {
+border: 1px solid #000;
+}
